@@ -1,5 +1,5 @@
 {
-  "READ--": "First install npm package name called <npm i gh-pages --save-dev > , then after add homepage,deploy and predeploy line in packagejson  then run deploy by npm run deploy then push your repository and create your  gh page   ",
+  "READ--": "First push your repository to remote then install npm package name called <npm i gh-pages --save-dev > , then after add homepage,deploy and predeploy line in packagejson  then run deploy by npm run deploy then push your repository and create your  gh page   ",
   "homepage": "https://toronado93.github.io/atomic-blog",
   "name": "atomic-blog",
   "version": "0.1.0",
